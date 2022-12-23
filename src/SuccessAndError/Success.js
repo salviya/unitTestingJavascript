@@ -1,4 +1,4 @@
-import { LitElement, html, css } from 'lit-element';
+ import { LitElement, html, css } from 'lit-element';
 import { LocalizeMixin, localize } from '@lion/localize';
 import '@lion/button/lion-button.js';
 import { Router } from '@vaadin/router';
